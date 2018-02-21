@@ -1,4 +1,4 @@
-# Webwapp for the vizualization of mitochondrial DNA haplotypes using tSNE
+# Webapp for the vizualization of mitochondrial DNA haplotypes using tSNE
 
 Project for BSR 2204, Practical Analysis of a Human Genome; see papg_capstone.pdf for analysis
 
