@@ -1,6 +1,6 @@
 # Webwapp for the vizualization of mitochondrial DNA haplotypes using tSNE
 
-Project for BSR 2204, Practical Analysis of a Human Genome 
+Project for BSR 2204, Practical Analysis of a Human Genome; see papg_capstone.pdf for analysis
 
 To use please go to [http://rahmannoodles.org/sample-apps/mt-ana/](http://rahmannoodles.org/sample-apps/mt-ana/) *the website can be slow to run due to the size of the data!*
 
